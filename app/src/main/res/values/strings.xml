@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Space Kitty</string>
+
+    <string name="main_menu_title">Space kitty</string>
+    <string name="main_menu_jp_title">宇宙にゃん子</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_play_ing">PlayIng</string>
+
+    <string name="play_label">Launch kitty into space</string>
+    <string name="highscore_label">Highscore</string>
+    <string name="title_activity_playing">PlayingActivity</string>
+    <string name="mode_ready">Ready</string>
+    <string name="mode_pause">Pause</string>
+    <string name="mode_lose">Lose</string>
+    <string name="mode_win">Win</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_highscore_activity">Highscore</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name ="description">You are Chami the space kitty(チャミ宇宙にゃん子), a pioneer and a UFO test pilot!</string>
+    <string name="howto">Your mission is to survive as long as possible, by avoiding getting too far away from eath and too close and avoiding space debris.</string>
+</resources>
